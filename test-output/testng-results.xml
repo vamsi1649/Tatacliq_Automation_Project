@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T07:52:16Z" name="Suite" finished-at="2022-11-28T07:54:10Z" duration-ms="113924">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T07:52:16Z" name="Test" finished-at="2022-11-28T07:54:10Z" duration-ms="113924">
+      <class name="tatacliq.tatacliq">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:22:16Z" name="beforetest" finished-at="2022-11-28T13:22:58Z" duration-ms="41604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test_case_1()[pri:0, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:22:58Z" name="test_case_1" finished-at="2022-11-28T13:23:00Z" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_1 -->
+        <test-method signature="test_case_2()[pri:1, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:23:00Z" name="test_case_2" finished-at="2022-11-28T13:23:12Z" duration-ms="12610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_2 -->
+        <test-method signature="test_case_3()[pri:2, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:23:12Z" name="test_case_3" finished-at="2022-11-28T13:23:18Z" duration-ms="5902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_3 -->
+        <test-method signature="test_case_4()[pri:3, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:23:18Z" name="test_case_4" finished-at="2022-11-28T13:23:25Z" duration-ms="6515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_4 -->
+        <test-method signature="test_case_5()[pri:4, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:23:25Z" name="test_case_5" finished-at="2022-11-28T13:23:33Z" duration-ms="7906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_5 -->
+        <test-method signature="test_case_6()[pri:5, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:23:33Z" name="test_case_6" finished-at="2022-11-28T13:23:42Z" duration-ms="9054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_6 -->
+        <test-method signature="test_case_7()[pri:6, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:23:42Z" name="test_case_7" finished-at="2022-11-28T13:24:03Z" duration-ms="21154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_7 -->
+        <test-method signature="test_case_8()[pri:7, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:24:03Z" name="test_case_8" finished-at="2022-11-28T13:24:03Z" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_8 -->
+        <test-method signature="test_case_9()[pri:8, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:24:03Z" name="test_case_9" finished-at="2022-11-28T13:24:07Z" duration-ms="4157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_9 -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:tatacliq.tatacliq@2421cc4]" started-at="2022-11-28T13:24:07Z" name="aftertest" finished-at="2022-11-28T13:24:10Z" duration-ms="2827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- tatacliq.tatacliq -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
